@@ -8,8 +8,8 @@
     },
     "win32": {
       "version": "1.2.2",
-      "build": 184,
-      "notes": "Windows update: smoother analysis pause and cancel on large libraries, responsive portable library syncing, and corrected false relink status."
+      "build": 188,
+      "notes": "Windows update: clearer BPM metadata controls with a Use Taktus option, corrected sample length display, and expanded preview and analysis limits for long audio."
     }
   }
 }
