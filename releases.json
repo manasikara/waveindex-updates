@@ -8,8 +8,8 @@
     },
     "win32": {
       "version": "1.2.2",
-      "build": 158,
-      "notes": "Improved Live Preview responsiveness with dense waveforms and smoother window dragging during audio analysis."
+      "build": 184,
+      "notes": "Windows update: smoother analysis pause and cancel on large libraries, responsive portable library syncing, and corrected false relink status."
     }
   }
 }
