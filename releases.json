@@ -3,8 +3,8 @@
   "releases": {
     "darwin": {
       "version": "1.2.2",
-      "build": 122,
-      "notes": "WAVEINDEX 1.2.2 for macOS is available on Gumroad."
+      "build": 124,
+      "notes": "macOS update: clearer BPM metadata and a Use Taktus action that fills the manual BPM field for review before Save."
     },
     "win32": {
       "version": "1.2.2",
