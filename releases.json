@@ -1,1 +1,15 @@
-{"schemaVersion":1,"releases":{"darwin":{"version":"1.0.1","notes":"Latest published Gumroad macOS release."},"win32":null}}
+{
+  "schemaVersion": 1,
+  "releases": {
+    "darwin": {
+      "version": "1.2.2",
+      "build": 122,
+      "notes": "WAVEINDEX 1.2.2 for macOS is available on Gumroad."
+    },
+    "win32": {
+      "version": "1.2.2",
+      "build": 158,
+      "notes": "Improved Live Preview responsiveness with dense waveforms and smoother window dragging during audio analysis."
+    }
+  }
+}
