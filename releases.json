@@ -7,8 +7,8 @@
       "notes": "macOS update: clearer BPM metadata and a Use Taktus action that fills the manual BPM field for review before Save."
     },
     "win32": {
-      "version": "1.2.2",
-      "build": 199,
+      "version": "1.2.3",
+      "build": 200,
       "notes": "Windows update: smoother library startup and analysis, more responsive window resizing, and playback for longer M4A files."
     }
   }
