@@ -7,9 +7,9 @@
       "notes": "macOS 1.2.4: improved M4A and library playback, short-clip export from long tracks, edit-limit guidance, smooth master volume control, compact controls and optional hints."
     },
     "win32": {
-      "version": "1.2.4",
-      "build": 227,
-      "notes": "Windows 1.2.4: expanded audio decoding, immediate streamed playback with genuine progressive waveforms, improved long-file seek/zoom, pitch and click-to-play controls, resizable library columns, and Gumroad download guidance."
+      "version": "1.2.5",
+      "build": 230,
+      "notes": "Windows 1.2.5: PITCH resets to +0.00 with a double-click anywhere on the control. Typed values accept only digits from 0 to 12 semitones."
     }
   }
 }
