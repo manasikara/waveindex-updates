@@ -3,8 +3,8 @@
   "releases": {
     "darwin": {
       "version": "1.2.5",
-      "build": 127,
-      "notes": "macOS 1.2.5: sample rows now show file details in a table; improved playback and preview of longer audio; Click to Play and tempo-preserving PITCH with typing, drag, trackpad scrolling and double-click reset. Restored pinch zoom and overview for long files marked LIMIT."
+      "build": 128,
+      "notes": "macOS 1.2.5: sample rows now show file details in a table; improved playback and preview of longer audio; Click to Play and tempo-preserving PITCH with typing, drag, trackpad scrolling and double-click reset. Restored pinch zoom and overview for long files marked LIMIT. Restored LOOP/ONESHOT classification and improved filename BPM in existing libraries so metadata filters include corrected results."
     },
     "win32": {
       "version": "1.2.5",
