@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "releases": {
     "darwin": {
-      "version": "1.2.4",
-      "build": 125,
-      "notes": "macOS 1.2.4: improved M4A and library playback, short-clip export from long tracks, edit-limit guidance, smooth master volume control, compact controls and optional hints."
+      "version": "1.2.5",
+      "build": 126,
+      "notes": "macOS 1.2.5: sample rows now show file details in a table; improved playback and preview of longer audio; Click to Play and tempo-preserving PITCH with typing, drag, trackpad scrolling and double-click reset."
     },
     "win32": {
       "version": "1.2.5",
