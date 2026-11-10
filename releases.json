@@ -8,8 +8,8 @@
     },
     "win32": {
       "version": "1.2.4",
-      "build": 210,
-      "notes": "Windows 1.2.4: smoother library startup and analysis, long M4A playback, safe clip extraction from long tracks, edit-limit markers, master volume, library-only analysis and optional hints."
+      "build": 227,
+      "notes": "Windows 1.2.4: expanded audio decoding, immediate streamed playback with genuine progressive waveforms, improved long-file seek/zoom, pitch and click-to-play controls, resizable library columns, and Gumroad download guidance."
     }
   }
 }
