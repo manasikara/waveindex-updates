@@ -8,8 +8,8 @@
     },
     "win32": {
       "version": "1.2.5",
-      "build": 231,
-      "notes": "Windows 1.2.5 build 231: restores LOOP/ONESHOT classification in existing analyzed libraries and reads explicit filename BPM amid other numbers. Also includes PITCH double-click reset and digit-only entry."
+      "build": 261,
+      "notes": "Windows 1.2.5 build 261: adds REX loop preview and editing, RX2 loop/trim drag export, Project Audio Export to a folder or ZIP, per-preview waveform zoom, and Ogg audio in WAV. Improves large-library navigation and adds FFmpeg LGPL attribution in About."
     }
   }
 }
