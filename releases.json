@@ -8,8 +8,8 @@
     },
     "win32": {
       "version": "1.2.5",
-      "build": 230,
-      "notes": "Windows 1.2.5: PITCH resets to +0.00 with a double-click anywhere on the control. Typed values accept only digits from 0 to 12 semitones."
+      "build": 231,
+      "notes": "Windows 1.2.5 build 231: restores LOOP/ONESHOT classification in existing analyzed libraries and reads explicit filename BPM amid other numbers. Also includes PITCH double-click reset and digit-only entry."
     }
   }
 }
