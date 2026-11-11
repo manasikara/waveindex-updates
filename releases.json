@@ -3,8 +3,8 @@
   "releases": {
     "darwin": {
       "version": "1.2.5",
-      "build": 128,
-      "notes": "macOS 1.2.5: sample rows now show file details in a table; improved playback and preview of longer audio; Click to Play and tempo-preserving PITCH with typing, drag, trackpad scrolling and double-click reset. Restored pinch zoom and overview for long files marked LIMIT. Restored LOOP/ONESHOT classification and improved filename BPM in existing libraries so metadata filters include corrected results."
+      "build": 129,
+      "notes": "macOS 1.2.5 build 129: adds REX/RX2/RCY preview and editing, RX2 loop/trim drag export, vertical waveform zoom, and Project Audio Export to a DAW folder or ZIP. Also includes improved long-audio playback, metadata columns, LOOP/ONESHOT and filename BPM fixes, and updated FFmpeg license/source notices."
     },
     "win32": {
       "version": "1.2.5",
