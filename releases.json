@@ -8,8 +8,8 @@
     },
     "win32": {
       "version": "1.2.5",
-      "build": 261,
-      "notes": "Windows 1.2.5 build 261: adds REX loop preview and editing, RX2 loop/trim drag export, Project Audio Export to a folder or ZIP, per-preview waveform zoom, and Ogg audio in WAV. Improves large-library navigation and adds FFmpeg LGPL attribution in About."
+      "build": 262,
+      "notes": "Windows 1.2.5 build 262: adds REX loop preview and editing, RX2 loop/trim drag export, Project Audio Export to a folder or ZIP, per-preview waveform zoom, and Ogg audio in WAV. Improves large-library navigation and adds FFmpeg LGPL attribution in About. Fixes EXACT FILES in Projects: duplicate results stay scoped to the selected Project, and turning the filter off restores its files."
     }
   }
 }
