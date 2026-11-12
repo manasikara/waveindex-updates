@@ -3,8 +3,8 @@
   "releases": {
     "darwin": {
       "version": "1.2.5",
-      "build": 132,
-      "notes": "macOS 1.2.5 build 132: fixes Project / EXACT FILES scope, search delays during audio analysis, and offline library status after reconnecting a drive. Adds clickable shortcut-bar entries that open matching Instructions, plus optional hover hints. Also includes REX preview and editing, RX2 drag export, vertical waveform zoom, and Project Audio Export."
+      "build": 133,
+      "notes": "macOS 1.2.5 build 133: makes shortcut and zoom-speed hints appear immediately, sizes popup borders to their text, removes an incorrect Help link, and matches the frameless Instructions close button to Windows. Includes Project / EXACT FILES scope and search-during-analysis fixes, refreshed external-drive status, clickable shortcut-bar Instructions, REX/RX2 editing and drag export, waveform zoom, and Project Audio Export."
     },
     "win32": {
       "version": "1.2.5",
