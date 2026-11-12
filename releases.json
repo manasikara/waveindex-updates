@@ -3,8 +3,8 @@
   "releases": {
     "darwin": {
       "version": "1.2.5",
-      "build": 129,
-      "notes": "macOS 1.2.5 build 129: adds REX/RX2/RCY preview and editing, RX2 loop/trim drag export, vertical waveform zoom, and Project Audio Export to a DAW folder or ZIP. Also includes improved long-audio playback, metadata columns, LOOP/ONESHOT and filename BPM fixes, and updated FFmpeg license/source notices."
+      "build": 132,
+      "notes": "macOS 1.2.5 build 132: fixes Project / EXACT FILES scope, search delays during audio analysis, and offline library status after reconnecting a drive. Adds clickable shortcut-bar entries that open matching Instructions, plus optional hover hints. Also includes REX preview and editing, RX2 drag export, vertical waveform zoom, and Project Audio Export."
     },
     "win32": {
       "version": "1.2.5",
