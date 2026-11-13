@@ -8,8 +8,8 @@
     },
     "win32": {
       "version": "1.2.5",
-      "build": 267,
-      "notes": "Windows 1.2.5 build 267: fixes Project / EXACT FILES scope and keeps search and library switching responsive during audio analysis. Adds clickable bottom-bar shortcuts, independent Show Shortcut Hints, compact hover popups that follow the active skin, and immediate hints for FINE/NORMAL/FAST. Also includes REX/RX2 preview and drag export, Project Audio Export, waveform zoom, Ogg-in-WAV decoding, and FFmpeg LGPL notices."
+      "build": 287,
+      "notes": "Windows 1.2.5 build 287: adds saved Always on Top, a playhead time readout that follows seeks, and an optional resume-from-stop control. Prevents duplicate app instances. Adds Honey and botanical Preview palettes, including dark Jasmine in Light mode. Restores bounded RAM/LIMIT editing: select a region from a long source and transfer it to the other Live Preview, including one with existing audio. The editable workspace remains limited to 64 MiB decoded audio."
     }
   }
 }
