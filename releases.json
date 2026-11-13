@@ -3,8 +3,8 @@
   "releases": {
     "darwin": {
       "version": "1.2.5",
-      "build": 133,
-      "notes": "macOS 1.2.5 build 133: makes shortcut and zoom-speed hints appear immediately, sizes popup borders to their text, removes an incorrect Help link, and matches the frameless Instructions close button to Windows. Includes Project / EXACT FILES scope and search-during-analysis fixes, refreshed external-drive status, clickable shortcut-bar Instructions, REX/RX2 editing and drag export, waveform zoom, and Project Audio Export."
+      "build": 134,
+      "notes": "macOS 1.2.5 build 134: adds Always on Top and resume-from-stop controls, live PLAYHEAD readouts, updated palettes, a single-instance guard, and bounded Shift+Command-drag transfer from streamed audio into an editable Preview (64 MiB cap). Fixes playback after transferring LIMIT fragments and restores rapid short-sample library audition; stale source-start requests no longer interrupt the current sample."
     },
     "win32": {
       "version": "1.2.5",
