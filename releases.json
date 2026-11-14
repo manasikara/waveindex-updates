@@ -3,8 +3,8 @@
   "releases": {
     "darwin": {
       "version": "1.2.5",
-      "build": 134,
-      "notes": "macOS 1.2.5 build 134: adds Always on Top and resume-from-stop controls, live PLAYHEAD readouts, updated palettes, a single-instance guard, and bounded Shift+Command-drag transfer from streamed audio into an editable Preview (64 MiB cap). Fixes playback after transferring LIMIT fragments and restores rapid short-sample library audition; stale source-start requests no longer interrupt the current sample."
+      "build": 135,
+      "notes": "macOS 1.2.5 build 135: speeds up paging through large sample lists and shows loading while results are fetched. Quick Export saves a selected Live Preview region as a unique 32-bit float WAV inside an indexed library, then indexes and adds it to a Project or Collection. Selected indexed files can also be assigned to the last-used Project or Collection without copying audio. Separate Project and Collection targets persist across restarts. Adds a 2,000-character note to each Project and Collection. Also includes the playback, preview and library audition fixes from build 134."
     },
     "win32": {
       "version": "1.2.5",
