@@ -8,8 +8,8 @@
     },
     "win32": {
       "version": "1.2.5",
-      "build": 354,
-      "notes": "Windows 1.2.5 build 354: adds Sample Grid with hover audition, smooth zoom and panning, sample-kind and offline filtering; three independent Loop Tools with concurrent playback; fragment copying between Live Previews and indexed folders; WAV navigation recording; per-library full-scan timing; incremental portable-index sync; and immediate control hints. Fixes loop placement, wraparound audio, and playback continuity during edits and drag."
+      "build": 367,
+      "notes": "Windows 1.2.5 build 367: adds a three-Loop-Tool mode in each Live Preview (Ctrl+Shift+L), independent playback in both previews, and upper/lower controls. Loop regions stay in place during editing, scroll at viewport edges while dragged, and gain a move grip when narrow. Left/Right now seek through long streamed audio without stopping or jumping back. Improves Loop Tool placement, pitch adjustment, and selection-arm feedback."
     }
   }
 }
