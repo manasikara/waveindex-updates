@@ -8,8 +8,8 @@
     },
     "win32": {
       "version": "1.2.5",
-      "build": 367,
-      "notes": "Windows 1.2.5 build 367: adds a three-Loop-Tool mode in each Live Preview (Ctrl+Shift+L), independent playback in both previews, and upper/lower controls. Loop regions stay in place during editing, scroll at viewport edges while dragged, and gain a move grip when narrow. Left/Right now seek through long streamed audio without stopping or jumping back. Improves Loop Tool placement, pitch adjustment, and selection-arm feedback."
+      "build": 371,
+      "notes": "Windows 1.2.5 build 371: adds three Loop Tools in each Live Preview with independent playback, upper/lower controls, and Ctrl+Shift+L to toggle the active set. Loop regions can be moved and resized with edge scrolling and a grip for narrow regions. Ctrl-drag can stretch an eligible Loop Tool fragment. Left/Right seek through long streamed audio without stopping playback. Instructions text can be selected and copied with Ctrl+C or the context menu; Export PDF saves the complete guide and shortcuts as a print-friendly A4 document. Includes pitch and selection fixes."
     }
   }
 }
