@@ -9,7 +9,7 @@
     "win32": {
       "version": "1.2.5",
       "build": 371,
-      "notes": "Windows 1.2.5 build 371: fixes Ctrl-drag stretching in the three-Loop-Tool mode, preserves the other Loop Tools during stretch, and improves stretch feedback and label placement. Shift+A selects the complete fragment under the playhead when eligible. Instructions text can now be selected and copied with Ctrl+C or the Copy context menu. Export PDF saves the complete guide and keyboard shortcuts as a print-friendly A4 document."
+      "notes": "Windows 1.2.5 build 371: adds Sample Grid with offline browsing, REC recording of playback to WAV, three Loop Tools per Live Preview, and independent playback in the upper and lower editors. Loop regions can be moved, resized and stretched with improved edge scrolling, selection and long-file seeking. Portable library indexes sync incrementally, with more accurate per-library full-scan times. Instructions text can be selected and copied with Ctrl+C or Copy; Export PDF saves the complete guide and keyboard shortcuts as a printable A4 document."
     }
   }
 }
