@@ -9,7 +9,7 @@
     "win32": {
       "version": "1.2.5",
       "build": 371,
-      "notes": "Windows 1.2.5 build 371: adds three Loop Tools in each Live Preview with independent playback, upper/lower controls, and Ctrl+Shift+L to toggle the active set. Loop regions can be moved and resized with edge scrolling and a grip for narrow regions. Ctrl-drag can stretch an eligible Loop Tool fragment. Left/Right seek through long streamed audio without stopping playback. Instructions text can be selected and copied with Ctrl+C or the context menu; Export PDF saves the complete guide and shortcuts as a print-friendly A4 document. Includes pitch and selection fixes."
+      "notes": "Windows 1.2.5 build 371: fixes Ctrl-drag stretching in the three-Loop-Tool mode, preserves the other Loop Tools during stretch, and improves stretch feedback and label placement. Shift+A selects the complete fragment under the playhead when eligible. Instructions text can now be selected and copied with Ctrl+C or the Copy context menu. Export PDF saves the complete guide and keyboard shortcuts as a print-friendly A4 document."
     }
   }
 }
