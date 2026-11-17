@@ -8,8 +8,8 @@
     },
     "win32": {
       "version": "1.2.5",
-      "build": 371,
-      "notes": "Windows 1.2.5 build 371: adds Sample Grid with offline browsing, REC recording of playback to WAV, three Loop Tools per Live Preview, and independent playback in the upper and lower editors. Loop regions can be moved, resized and stretched with improved edge scrolling, selection and long-file seeking. Portable library indexes sync incrementally, with more accurate per-library full-scan times. Instructions text can be selected and copied with Ctrl+C or Copy; Export PDF saves the complete guide and keyboard shortcuts as a printable A4 document."
+      "build": 291,
+      "notes": "Windows 1.2.5 build 291: speeds up paging through large sample lists and shows loading while results are fetched. Quick Export saves a selected Live Preview region as a unique 32-bit float WAV inside an indexed library, then indexes and adds it to the last-used Project or Collection. Selected indexed files can also be assigned without copying audio. Separate Project and Collection targets persist across restarts. Adds a 2,000-character note to each Project and Collection."
     }
   }
 }
