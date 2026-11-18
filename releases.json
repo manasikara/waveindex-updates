@@ -8,8 +8,8 @@
     },
     "win32": {
       "version": "1.2.5",
-      "build": 378,
-      "notes": "Windows 1.2.5 build 378: new libraries start folder-only analysis while the global backlog stays paused; imported analysis is retained. Folder-only full-scan time excludes pauses. Removing a library immediately refreshes ALL SAMPLES. Sample Grid's ALL SAMPLES scope includes every indexed library. OFF-LINE appears only when relevant; offline samples are hidden by default and can be shown for inspection without playback or file actions until the library reconnects."
+      "build": 382,
+      "notes": "Windows 1.2.5 build 382: wheel control for VOL and V ZOOM; clearer TAKTUS ON highlight; Ctrl-drag Loop Tool stretch beyond sample end; WAV export defaults to 24-bit PCM. SHUF plays random results automatically after each full sample ends, without repeats; Previous follows history. Ctrl+Shift+P/O add to the last Project/Collection. Sample context menus show no shortcut labels except for those two actions; F still toggles Favorites. Old Quick Export key shortcuts removed."
     }
   }
 }
