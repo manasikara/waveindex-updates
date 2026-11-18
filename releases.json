@@ -3,8 +3,8 @@
   "releases": {
     "darwin": {
       "version": "1.2.5",
-      "build": 136,
-      "notes": "macOS 1.2.5 build 136: adds three Loop Tools in each Live Preview with independent playback, upper/lower controls, and easier moving and resizing. REC can record the app's playback mix to WAV. Instructions text can be selected and copied, and the complete guide can be exported as a printable PDF. Portable library indexes now sync incrementally; per-library full-scan time tracks active indexing and audio analysis. Includes preview, pitch and selection fixes."
+      "build": 138,
+      "notes": "macOS 1.2.5 build 138: scopes full analysis to the selected library and improves Sample Grid handling of all libraries and offline files. Adds wheel control over VOL and V ZOOM sliders, clearer TAKTUS ON, Loop Tool stretch past a sample end, and 24-bit PCM as the default WAV export. SHUF traverses filtered results without repeats and automatically plays another random sample after natural full-playback completion, even with AUTOPLAY off; Stop, loops, selections and short navigation previews do not advance."
     },
     "win32": {
       "version": "1.2.5",
