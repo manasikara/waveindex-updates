@@ -3,8 +3,8 @@
   "releases": {
     "darwin": {
       "version": "1.2.5",
-      "build": 138,
-      "notes": "macOS 1.2.5 build 138: scopes full analysis to the selected library and improves Sample Grid handling of all libraries and offline files. Adds wheel control over VOL and V ZOOM sliders, clearer TAKTUS ON, Loop Tool stretch past a sample end, and 24-bit PCM as the default WAV export. SHUF traverses filtered results without repeats and automatically plays another random sample after natural full-playback completion, even with AUTOPLAY off; Stop, loops, selections and short navigation previews do not advance."
+      "build": 139,
+      "notes": "macOS 1.2.5 build 139: scopes full analysis to the selected library and improves Sample Grid handling of all libraries and offline files. Adds wheel control over VOL and V ZOOM sliders, clearer TAKTUS ON, Loop Tool stretch past a sample end, and 24-bit PCM as the default WAV export. SHUF traverses filtered results without repeats and automatically plays another random sample after natural full-playback completion, even with AUTOPLAY off; Stop, loops, selections and short navigation previews do not advance."
     },
     "win32": {
       "version": "1.2.5",
