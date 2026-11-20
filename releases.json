@@ -8,8 +8,8 @@
     },
     "win32": {
       "version": "1.2.5",
-      "build": 382,
-      "notes": "Windows 1.2.5 build 382: wheel control for VOL and V ZOOM; clearer TAKTUS ON highlight; Ctrl-drag Loop Tool stretch beyond sample end; WAV export defaults to 24-bit PCM. SHUF plays random results automatically after each full sample ends, without repeats; Previous follows history. Ctrl+Shift+P/O add to the last Project/Collection. Sample context menus show no shortcut labels except for those two actions; F still toggles Favorites. Old Quick Export key shortcuts removed."
+      "build": 391,
+      "notes": "Windows 1.2.5 build 391: REC captures the app's mixed playback, including both Live Previews and Loop Tools. Batch WAV-to-MP3 conversion offers quality choices, supported metadata transfer, STOP/RESUME and safe incremental updates. BWF description search and portable library conflict verification are more reliable. REMOVE FROM WAVEINDEX handles inconsistent search indexes and keeps removed portable libraries from reappearing automatically. Source audio is not deleted."
     }
   }
 }
