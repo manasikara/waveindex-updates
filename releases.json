@@ -8,8 +8,8 @@
     },
     "win32": {
       "version": "1.2.5",
-      "build": 391,
-      "notes": "Windows 1.2.5 build 391: REC captures the app's mixed playback, including both Live Previews and Loop Tools. Batch WAV-to-MP3 conversion offers quality choices, supported metadata transfer, STOP/RESUME and safe incremental updates. BWF description search and portable library conflict verification are more reliable. REMOVE FROM WAVEINDEX handles inconsistent search indexes and keeps removed portable libraries from reappearing automatically. Source audio is not deleted."
+      "build": 397,
+      "notes": "Windows 1.2.5 build 397: Portable Library Index REVIEW waits for active saves, detects changed sidecars and offers retry for read errors. Sync verifies state safely under SQLite locks; sidebar and context menu clarify pending, verifying and failed states. A Welcome Certificate appears after first successful license activation and can be reopened from Help by licensed users. Instructions now cover these workflows."
     }
   }
 }
